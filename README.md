@@ -13,7 +13,9 @@ This is a **Next.js** delivery dashboard application designed to manage shipment
 - **Docker** for containerized deployment.
 
 ## Features
+- **Main ROute** : App can be accessed at localhost:3000/delivery-dashboard
 
+- **Sortable Columns**:Trip Status and TAT status columns are sortable can be checked by double clicking on the column
 - **Add Trips**: Easily add new trips to the dashboard.
 - **Update Status**: Update the status of an existing trip.
 - **Pagination & Sorting**: Navigate through multiple shipments and sort based on various criteria.
@@ -36,9 +38,7 @@ This is a **Next.js** delivery dashboard application designed to manage shipment
 
 ### 1. Clone the Repository
 
-# App can be accessed at localhost:3000/delivery-dashboard
 
-# Trip Status and TAT status columns are sortable can be checked by double clicking on the column
 
 ```bash
 git clone https://github.com/N-e-0-24/intugine.git
