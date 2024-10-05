@@ -36,6 +36,12 @@ This is a **Next.js** delivery dashboard application designed to manage shipment
 
 ### 1. Clone the Repository
 
+# App can be accessed at localhost:3000/delivery-dashboard
+
+# Trip Status and TAT status columns are sortable can be checked by double clicking on the column
+
 ```bash
 git clone https://github.com/N-e-0-24/intugine.git
-cd delivery-dashboard
+cd intugine
+
+
